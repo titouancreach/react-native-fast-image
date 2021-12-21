@@ -1,3 +1,8 @@
+## fork
+
+Version 6.x.x (compatible RN 0.59) avec une version mise à jours de SDWebImage (pour IOS >= 14).
+
+
 <h1 align="center">
   🚩 FastImage
 </h1>
